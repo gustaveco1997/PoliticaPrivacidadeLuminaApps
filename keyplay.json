@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mister-massa",
+  "private_key_id": "baf9c1ddcb0465cad613a98d3853c1070fcdbf99",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCsLW4Z3yyZR4Qf\nGrL6bznBUdTDdvlA0wu8xeQNQKGDjB1AOMQWVN6mf0W/hxv0/GSVYQzGAezsGUSZ\nSsRjoDE5fr5HYwtyj7c6v/EVzrrrNodPpwl7LjD8w4muVi8ZXwMZVxf9hFU6ZQir\ny0/BZiJj8W29UdKFO24qJ+zMYd8pi3Vg0hCN8wHCQnvjDP3KDZ0/p/1YWRgD8J2h\nDF5XXrFRn+7ILm9t89/Jq+LmcBLIg9lgobesee/exuV2iIhn3CGk/C4VHfTcF9O6\nwIb3qQiLTkRaDaJ+AKmYebN4m+Kl8Re/i87v+PH6/PNtft0OhJWQHJ4qVt78X7NQ\nDBtAeX3zAgMBAAECgf9y5TNpEFndRLFmEEBfM4SBp5nTgLvUBlb5dxTibb6viftQ\nX+Z6VdLo8wVtnzuIwDm0H+SQ6GKx1YAcIJ3tMs5RD8LqNa3t76QrZZVRIs3ufZ94\nsn7L3zHReqrl1kftJk9rGYi+JGYQvFs3nkoamjgDeZiW6C2+ZWpJDLDNsoIOYL2N\nSn94WvRj/2aTe5/isGcmGlp/o3bCak2L6KyeAymLUvPdPfL6DxYtsjtM+HmjtKj1\nFS5tm9/SZUjbMSbPYjIcasPeVzAQfwzyXB8U6sxgNLJee6DkuIVcy8NIdX8lHLJc\nHvCRmNfEEWZy01QmIoaKQQQjsPodO2G7DsGaFVUCgYEA57TZsQc0ZOmPD/OT49bj\nbzy2Opocjt1GXEWGG2kn7dqthMzvtCeD13xmBtknVClIEwuRyLGr8gFtZ9B0wOtl\nS6UqPlNBTVr45RTbarrrV97Y8XEHz5CG37aELXIaxcVmsWrDVyouIAur3/MDqvW3\n67fulGz/tReBZ3IUm2OQAOcCgYEAvjrImFRDmHtdEam3PVzXU/eyUbOCRh6arU84\nAbR9hnB5SXsUDZ3XFi6g58uLhAOdOvlJq0eLWmDQ9ucMhkv1dBpf+9EwPQA4fBhq\n4KIViMXtWQq4ZzfhEPA4RThfeeFgbZ28R8j7556Hhhd9Rx1Zg56RG2HeW2MueWDu\nBz3O3RUCgYEAxp02cVHcrpep4yGG5ql/wQ1Io0kRK8EvG88Ymox0BqYJUSmeW033\n7JGcn0grNzA/sNuc9myeGE7y6ic8vVXKOaJ1aIFTG6zcZvmO75kUPPkv+x5JdLnN\ncxxvhskle9uvIGuE0EW+zgdTKB+WSEhihHLg1mfsdN2WNgcK9PvOJ4cCgYBP/Zv4\nIgbCia1bDgiVbwLEtjVvkZJINfpIwjUE0oauD4GQ2oZWK3cURss2bSrfej2VXNoT\ngeQhPvDfwcxMdIhkJ+sQkqg8HmmiFQpsJvvzJXdmp9Fe5epoGvsucEQFljXcIiXX\n8bWrccf/JMVzL+5CIF1YLFE6EHysYYv105G2+QKBgAvyBsFcNuJvtpkPh7tzqN70\nWJyvjgIoCQYDIAaNfN46Aou1MgltgxRo1EXjNwZIduwujyd29dpyNnL2XJz2FxLq\ndAqQ4/IoyfJU0YQ2m8doWu5Raih79rFZj09DrAcD6SeWKnWDEE1ewtY7AAd4tK0L\nCJtxCCbP+iUTcIR4sefa\n-----END PRIVATE KEY-----\n",
+  "client_email": "gerenciamentoplayconsoleconta1@mister-massa.iam.gserviceaccount.com",
+  "client_id": "106797717139639242302",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gerenciamentoplayconsoleconta1%40mister-massa.iam.gserviceaccount.com"
+}
